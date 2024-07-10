@@ -1,0 +1,52 @@
+[
+    {
+      "ProductName": "Stainless Steel Chef Knife",
+      "GraphicName": "chef_knife.jpg",
+      "CostPrice": 22.99,
+      "MSRP": 45.99,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 30,
+      "Description": "Professional stainless steel chef knife with ergonomic handle for precision cutting.",
+      "Brand": "KitchenMasters"
+    },
+    {
+      "ProductName": "Smart WiFi Light Bulb",
+      "GraphicName": "smart_bulb.jpg",
+      "CostPrice": 15.99,
+      "MSRP": 29.99,
+      "QtyOnHand": 200,
+      "QtyOnBackOrder": 20,
+      "Description": "Energy-efficient smart WiFi light bulb with adjustable brightness and color settings.",
+      "Brand": "GadgetPro"
+    },
+    {
+      "ProductName": "Adjustable Dumbbells Set",
+      "GraphicName": "dumbbells.jpg",
+      "CostPrice": 120.00,
+      "MSRP": 250.00,
+      "QtyOnHand": 50,
+      "QtyOnBackOrder": 15,
+      "Description": "Adjustable dumbbells set for versatile home workouts with a compact storage design.",
+      "Brand": "FitnessGear"
+    },
+    {
+      "ProductName": "Eco-friendly Water Bottle",
+      "GraphicName": "water_bottle.jpg",
+      "CostPrice": 9.99,
+      "MSRP": 19.99,
+      "QtyOnHand": 300,
+      "QtyOnBackOrder": 25,
+      "Description": "Reusable and eco-friendly water bottle made from BPA-free materials, perfect for everyday use.",
+      "Brand": "FitnessGear"
+    },
+    {
+      "ProductName": "Bluetooth Smart Watch",
+      "GraphicName": "smart_watch.jpg",
+      "CostPrice": 45.99,
+      "MSRP": 89.99,
+      "QtyOnHand": 120,
+      "QtyOnBackOrder": 35,
+      "Description": "Multifunctional Bluetooth smart watch with fitness tracking and message notifications.",
+      "Brand": "GadgetPro"
+    }
+  ]
