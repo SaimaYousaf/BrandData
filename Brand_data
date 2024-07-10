@@ -1,52 +1,152 @@
 [
-    {
-      "ProductName": "Stainless Steel Chef Knife",
-      "GraphicName": "chef_knife.jpg",
-      "CostPrice": 22.99,
-      "MSRP": 45.99,
-      "QtyOnHand": 100,
-      "QtyOnBackOrder": 30,
-      "Description": "Professional stainless steel chef knife with ergonomic handle for precision cutting.",
-      "Brand": "KitchenMasters"
-    },
-    {
-      "ProductName": "Smart WiFi Light Bulb",
-      "GraphicName": "smart_bulb.jpg",
-      "CostPrice": 15.99,
-      "MSRP": 29.99,
-      "QtyOnHand": 200,
-      "QtyOnBackOrder": 20,
-      "Description": "Energy-efficient smart WiFi light bulb with adjustable brightness and color settings.",
-      "Brand": "GadgetPro"
-    },
-    {
-      "ProductName": "Adjustable Dumbbells Set",
-      "GraphicName": "dumbbells.jpg",
-      "CostPrice": 120.00,
-      "MSRP": 250.00,
-      "QtyOnHand": 50,
-      "QtyOnBackOrder": 15,
-      "Description": "Adjustable dumbbells set for versatile home workouts with a compact storage design.",
-      "Brand": "FitnessGear"
-    },
-    {
-      "ProductName": "Eco-friendly Water Bottle",
-      "GraphicName": "water_bottle.jpg",
-      "CostPrice": 9.99,
-      "MSRP": 19.99,
-      "QtyOnHand": 300,
-      "QtyOnBackOrder": 25,
-      "Description": "Reusable and eco-friendly water bottle made from BPA-free materials, perfect for everyday use.",
-      "Brand": "FitnessGear"
-    },
-    {
-      "ProductName": "Bluetooth Smart Watch",
-      "GraphicName": "smart_watch.jpg",
-      "CostPrice": 45.99,
-      "MSRP": 89.99,
-      "QtyOnHand": 120,
-      "QtyOnBackOrder": 35,
-      "Description": "Multifunctional Bluetooth smart watch with fitness tracking and message notifications.",
-      "Brand": "GadgetPro"
-    }
-  ]
+  {
+    "ProductName": "Stainless Steel Chef Knife",
+    "GraphicName": "chef_knife.jpg",
+    "CostPrice": 22.99,
+    "MSRP": 45.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 30,
+    "Description": "Professional stainless steel chef knife with ergonomic handle for precision cutting.",
+    "Brand": "KitchenMasters"
+  },
+  {
+    "ProductName": "Smart WiFi Light Bulb",
+    "GraphicName": "smart_bulb.jpg",
+    "CostPrice": 15.99,
+    "MSRP": 29.99,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 20,
+    "Description": "Energy-efficient smart WiFi light bulb with adjustable brightness and color settings.",
+    "Brand": "GadgetPro"
+  },
+  {
+    "ProductName": "Adjustable Dumbbells Set",
+    "GraphicName": "dumbbells.jpg",
+    "CostPrice": 120.00,
+    "MSRP": 250.00,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 15,
+    "Description": "Adjustable dumbbells set for versatile home workouts with a compact storage design.",
+    "Brand": "FitnessGear"
+  },
+  {
+    "ProductName": "Eco-friendly Water Bottle",
+    "GraphicName": "water_bottle.jpg",
+    "CostPrice": 9.99,
+    "MSRP": 19.99,
+    "QtyOnHand": 300,
+    "QtyOnBackOrder": 25,
+    "Description": "Reusable and eco-friendly water bottle made from BPA-free materials, perfect for everyday use.",
+    "Brand": "FitnessGear"
+  },
+  {
+    "ProductName": "Bluetooth Smart Watch",
+    "GraphicName": "smart_watch.jpg",
+    "CostPrice": 45.99,
+    "MSRP": 89.99,
+    "QtyOnHand": 120,
+    "QtyOnBackOrder": 35,
+    "Description": "Multifunctional Bluetooth smart watch with fitness tracking and message notifications.",
+    "Brand": "GadgetPro"
+  },
+  {
+    "ProductName": "Non-Stick Frying Pan",
+    "GraphicName": "frying_pan.jpg",
+    "CostPrice": 18.99,
+    "MSRP": 37.99,
+    "QtyOnHand": 150,
+    "QtyOnBackOrder": 40,
+    "Description": "Durable non-stick frying pan for effortless cooking and easy cleaning.",
+    "Brand": "KitchenMasters"
+  },
+  {
+    "ProductName": "Smart Home Security Camera",
+    "GraphicName": "security_camera.jpg",
+    "CostPrice": 55.99,
+    "MSRP": 109.99,
+    "QtyOnHand": 80,
+    "QtyOnBackOrder": 25,
+    "Description": "High-definition smart home security camera with motion detection and night vision.",
+    "Brand": "GadgetPro"
+  },
+  {
+    "ProductName": "Yoga Mat",
+    "GraphicName": "yoga_mat.jpg",
+    "CostPrice": 20.99,
+    "MSRP": 41.99,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 30,
+    "Description": "Eco-friendly, non-slip yoga mat for all types of yoga and fitness exercises.",
+    "Brand": "FitnessGear"
+  },
+  {
+    "ProductName": "Cast Iron Skillet",
+    "GraphicName": "cast_iron_skillet.jpg",
+    "CostPrice": 25.99,
+    "MSRP": 51.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 20,
+    "Description": "Pre-seasoned cast iron skillet for perfect searing, sautéing, baking, and more.",
+    "Brand": "KitchenMasters"
+  },
+  {
+    "ProductName": "Noise Cancelling Earbuds",
+    "GraphicName": "earbuds.jpg",
+    "CostPrice": 29.99,
+    "MSRP": 59.99,
+    "QtyOnHand": 180,
+    "QtyOnBackOrder": 25,
+    "Description": "Compact noise-cancelling earbuds with excellent sound quality and long battery life.",
+    "Brand": "GadgetPro"
+  },
+  {
+    "ProductName": "Adjustable Kettlebell",
+    "GraphicName": "kettlebell.jpg",
+    "CostPrice": 70.99,
+    "MSRP": 140.99,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 10,
+    "Description": "Adjustable kettlebell for varied resistance training and muscle building.",
+    "Brand": "FitnessGear"
+  },
+  {
+    "ProductName": "Bamboo Cooking Utensils Set",
+    "GraphicName": "cooking_utensils.jpg",
+    "CostPrice": 15.99,
+    "MSRP": 31.99,
+    "QtyOnHand": 220,
+    "QtyOnBackOrder": 35,
+    "Description": "Eco-friendly bamboo cooking utensils set for all your kitchen needs.",
+    "Brand": "KitchenMasters"
+  },
+  {
+    "ProductName": "Portable Bluetooth Speaker",
+    "GraphicName": "bluetooth_speaker.jpg",
+    "CostPrice": 35.99,
+    "MSRP": 71.99,
+    "QtyOnHand": 130,
+    "QtyOnBackOrder": 20,
+    "Description": "Compact and portable Bluetooth speaker with high-quality sound and long battery life.",
+    "Brand": "GadgetPro"
+  },
+  {
+    "ProductName": "Resistance Bands Set",
+    "GraphicName": "resistance_bands.jpg",
+    "CostPrice": 12.99,
+    "MSRP": 25.99,
+    "QtyOnHand": 300,
+    "QtyOnBackOrder": 50,
+    "Description": "Set of resistance bands for versatile strength training and flexibility exercises.",
+    "Brand": "FitnessGear"
+  },
+  {
+    "ProductName": "Stainless Steel Mixing Bowls",
+    "GraphicName": "mixing_bowls.jpg",
+    "CostPrice": 24.99,
+    "MSRP": 49.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 20,
+    "Description": "Set of stainless steel mixing bowls with non-slip bases, perfect for all baking and cooking tasks.",
+    "Brand": "KitchenMasters"
+  }
+]
